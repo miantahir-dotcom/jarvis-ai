@@ -1,0 +1,10 @@
+edge-tts
+Flask
+psutil
+PySide6
+PyAutoGUI
+pygame
+pywhatkit
+pywin32
+requests
+SpeechRecognition
